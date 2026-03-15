@@ -610,5 +610,7 @@ You see an array/string problem...
 ---
 
 
-#Next Part----------> Sorting in DSA
+##Next Part----------> Sorting in DSA
+
+----
 *Part of the **DSA Made Simple** series — Breaking down complex concepts, one pattern at a time.*
